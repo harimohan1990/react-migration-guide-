@@ -1,4 +1,4 @@
-# react-migration-guide-
+# react-migration-guide- 18 to 19
 
 Here's a **complete, detailed migration guide** from **React 18 to React 19**, including setup, breaking changes, new features, compiler integration, and ecosystem updates.
 
